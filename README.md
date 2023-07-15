@@ -45,7 +45,7 @@ Follow the steps below to run the project in your local
       
 2. Go to project folder
    ```sh
-   cd jwt-authentication/api
+   cd virtual-web-socket
    ```
 3. Create docker image and create and run docker container
    ```sh
